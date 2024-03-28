@@ -30,13 +30,13 @@ The app should now be running at [http://localhost:3000](http://localhost:3000).
 
 ### Dashboard Page
 
-![Dashboard](Screenshots/Dashboard.jpeg)
-![Dashboard](Screenshots/DashboardFav.jpeg)
+![Dashboard](Screenshots/Dashboard.jpeg)  ![Dashboard](Screenshots/DashboardFav.jpeg)
+
 
 ### Recipe Detail Page
 
-![Recipe Detail](Screenshots/RecipeDetails.jpeg)
-![Recipe Detail](Screenshots/RecipeDetail2.jpeg)
+![Recipe Detail](Screenshots/RecipeDetail2.jpeg)  ![Recipe Detail](Screenshots/RecipeDetails.jpeg)
+  
 
 ### Favorites Page
 
@@ -44,8 +44,8 @@ The app should now be running at [http://localhost:3000](http://localhost:3000).
 
 ### search Page
 
-![Favorites](Screenshots/Search.jpeg)
-![Favorites](Screenshots/Search1.jpeg)
+![Favorites](Screenshots/Search.jpeg)    ![Favorites](Screenshots/Search1.jpeg)
+
 
 ### loginPage Page
 
