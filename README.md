@@ -30,34 +30,34 @@ The app should now be running at [http://localhost:3000](http://localhost:3000).
 
 ### Dashboard Page
 
-![Dashboard](Screenshots/Dashboard.png)
-![Dashboard](Screenshots/DashboardFav.png)
+![Dashboard](Screenshots/Dashboard.jpeg)
+![Dashboard](Screenshots/DashboardFav.jpeg)
 
 ### Recipe Detail Page
 
-![Recipe Detail](Screenshots/RecipeDetails.png)
-![Recipe Detail](Screenshots/RecipeDetail2.png)
+![Recipe Detail](Screenshots/RecipeDetails.jpeg)
+![Recipe Detail](Screenshots/RecipeDetail2.jpeg)
 
 ### Favorites Page
 
-![Favorites](Screenshots/Fav.png)
+![Favorites](Screenshots/Fav.jpeg)
 
 ### search Page
 
-![Favorites](Screenshots/Search.png)
-![Favorites](Screenshots/Search1.png)
+![Favorites](Screenshots/Search.jpeg)
+![Favorites](Screenshots/Search1.jpeg)
 
 ### loginPage Page
 
-![Favorites](Screenshots/login.png)
+![Favorites](Screenshots/login.jpeg)
 
 ### RegisterPage Page
 
-![Favorites](Screenshots/Register.png)
+![Favorites](Screenshots/Register.jpeg)
 
 ### aboutUs Page
 
-![Favorites](Screenshots/AboutUs.png)
+![Favorites](Screenshots/AboutUs.jpeg)
 
 # github
 
