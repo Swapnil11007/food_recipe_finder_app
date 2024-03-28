@@ -56,7 +56,7 @@ The app should now be running at [http://localhost:3000](http://localhost:3000).
 ![Favorites](Screenshots/Register.jpeg)
 
 ### aboutUs Page
-
+<img src="Screenshots/AboutUs.jpeg" alt="Image 1" width="200" />
 ![Favorites](Screenshots/AboutUs.jpeg)
 
 # github
