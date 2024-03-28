@@ -29,43 +29,29 @@ The app should now be running at [http://localhost:3000](http://localhost:3000).
 ## Screenshots
 
 ### Dashboard Page
-<img src="Screenshots/Screenshots/Dashboard.jpeg" alt="Image 1" width="200" />
+<img src="Screenshots/Dashboard.jpeg" alt="Image 1" width="200" />
 <img src="Screenshots/DashboardFav.jpeg" alt="Image 1" width="200" />
 
-![Dashboard](Screenshots/Dashboard.jpeg)  ![Dashboard](Screenshots/DashboardFav.jpeg)
-
-
 ### Recipe Detail Page
-<img src="Screenshots/RecipeDetail2.jpeg" alt="Image 1" width="200" />
+<img src="Screenshots/RecipeDetails2.jpeg" alt="Image 1" width="200" />
 <img src="Screenshots/RecipeDetails.jpeg" alt="Image 1" width="200" />
-
-![Recipe Detail](Screenshots/RecipeDetail2.jpeg)  ![Recipe Detail](Screenshots/RecipeDetails.jpeg)
-  
 
 ### Favorites Page
 <img src="Screenshots/Fav.jpeg" alt="Image 1" width="200" />
-
-![Favorites](Screenshots/Fav.jpeg)
 
 ### search Page
 <img src="Screenshots/Search.jpeg" alt="Image 1" width="200" />
 <img src="Screenshots/Search1.jpeg" alt="Image 1" width="200" />
 
-![Favorites](Screenshots/Search.jpeg)    ![Favorites](Screenshots/Search1.jpeg)
-
-
 ### loginPage Page
 <img src="Screenshots/login.jpeg" alt="Image 1" width="200" />
 
-![Favorites](Screenshots/login.jpeg)
 
 ### RegisterPage Page
 <img src="Screenshots/Register.jpeg" alt="Image 1" width="200" />
-![Favorites](Screenshots/Register.jpeg)
 
 ### aboutUs Page
 <img src="Screenshots/AboutUs.jpeg" alt="Image 1" width="200" />
-![Favorites](Screenshots/AboutUs.jpeg)
 
 # github
 
