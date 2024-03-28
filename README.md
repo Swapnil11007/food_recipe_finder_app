@@ -29,19 +29,25 @@ The app should now be running at [http://localhost:3000](http://localhost:3000).
 ## Screenshots
 
 ### Dashboard Page
+<p float="left">
 <img src="Screenshots/Dashboard.jpeg" alt="Image 1" width="200" />
 <img src="Screenshots/DashboardFav.jpeg" alt="Image 1" width="200" />
+</p>
 
 ### Recipe Detail Page
+<p float="left">
 <img src="Screenshots/RecipeDetails2.jpeg" alt="Image 1" width="200" />
 <img src="Screenshots/RecipeDetails.jpeg" alt="Image 1" width="200" />
+</p>
 
 ### Favorites Page
 <img src="Screenshots/Fav.jpeg" alt="Image 1" width="200" />
 
 ### search Page
+<p float="left">
 <img src="Screenshots/Search.jpeg" alt="Image 1" width="200" />
 <img src="Screenshots/Search1.jpeg" alt="Image 1" width="200" />
+</p>
 
 ### loginPage Page
 <img src="Screenshots/login.jpeg" alt="Image 1" width="200" />
