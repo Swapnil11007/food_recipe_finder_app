@@ -50,7 +50,7 @@ The app should now be running at [http://localhost:3000](http://localhost:3000).
 </p>
 
 ### loginPage Page
-<img src="Screenshots/login.jpeg" alt="Image 1" width="200" />
+<img src="Screenshots/Login.jpeg" alt="Image 1" width="200" />
 
 
 ### RegisterPage Page
